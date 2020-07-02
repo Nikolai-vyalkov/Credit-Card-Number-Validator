@@ -7,6 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
+* https://github.com/Nikolai-vyalkov/Credit-Card-Number-Validator/issues/1#issue-644952133
 * номера карт платежной системы "AmericanExpress", не валидны
 
 
